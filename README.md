@@ -1,0 +1,2 @@
+# Counterfactual-Medical-Image-Generation-for-Explainable-Disease-Diagnosis
+This project develops an interpretable medical AI system that combines deep learning classification with generative modeling to produce counterfactual chest X-ray images. By visualizing differences between original and generated images, it provides intuitive explanations for disease predictions and enhances clinical trust.

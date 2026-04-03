@@ -1,0 +1,21 @@
+{
+    "classifier": {
+        "overall_accuracy": 0.8589743589743589,
+        "class_accuracy": {
+            "NORMAL": 0.6923076923076923,
+            "PNEUMONIA": 0.958974358974359
+        },
+        "mean_confidence_correct": 0.9490588068294881,
+        "mean_confidence_incorrect": 0.7878646058115092,
+        "total_samples": 624
+    },
+    "generator": {
+        "mean_ssim": 0.665609918663746,
+        "mean_lpips": 0.305305232349624,
+        "flip_rate": 0.9572469325153374
+    },
+    "metadata": {
+        "generated_at": "2026-04-03 09:56:20",
+        "dataset": "Chest X-Ray (Pneumonia)"
+    }
+}

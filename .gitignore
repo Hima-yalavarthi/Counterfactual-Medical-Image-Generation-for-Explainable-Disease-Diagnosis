@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Models
+models/*.pth
+models/*.pt
+
+# Data
+data/chest_xray/
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/

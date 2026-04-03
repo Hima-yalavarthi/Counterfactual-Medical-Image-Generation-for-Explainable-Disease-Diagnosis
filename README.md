@@ -68,7 +68,7 @@ A high-fidelity layout of the system can be seen in [**`docs/ui_mockup.png`**](f
 
 ## 👨‍💻 Author
 - **Name**: Hima Yalavarthi
-- **Contact**: hima.yalavarthi@example.com
+- **Contact**: yalavarthima@ufl.edu
 
 ---
 
